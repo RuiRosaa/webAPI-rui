@@ -1,6 +1,6 @@
 //dados para aceder à api
 
-const chaveAPI = 'a9a83ee2bf5765e9c4fcb9594ed08ae0';
+const chaveAPI = 'd9d2cfdee600ea1d684307d75c7bee19';
 const nomeUtilizador = 'Ruipfrosa';
 const urlAPI = `https://ws.audioscrobbler.com/2.0/?method=user.getTopAlbums&user=${nomeUtilizador}&api_key=${chaveAPI}&format=json`;
 const semImagem = 'https://via.placeholder.com/300';
